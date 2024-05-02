@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035081207893",
+    "project_id": "aulafirebase-ecddb",
+    "storage_bucket": "aulafirebase-ecddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035081207893:android:8c5bad87e59116bb13c4dc",
+        "android_client_info": {
+          "package_name": "com.AulaFirebase.flutter_firabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJa7KzDUdiuyFSV7KUdX3RR_WepiVdUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
